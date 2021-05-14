@@ -244,7 +244,7 @@ if login == 1:
     tools.clear()
     print(f'{C}{G}{result}{C}')
     user = input(f"{C}[{G}+{C}]USERNAME:  ")
-    snh = 'VirtualInsanity'
+    snh = '@RakunOFC'
     if input(f"{C}[{G}+{C}]PASSWORD:  ").strip() == snh:
         print(f"{C}[{G}*{C}] Acesso Liberado...")
         time.sleep(1)
@@ -257,7 +257,7 @@ if login == 1:
             time.sleep(1)
         exit()
     print("\n ")
-if user == 'YATO' or user == 'KINY':
+if user == 'YATO' or user == 'RAKUN':
     kinymode=1
     kiny=1
     print(f"{C}[{Y}i{C}]Nova Opção Desbloqueada")
@@ -276,7 +276,7 @@ Sair = False
 while(Sair == False):
 
     letter_dict = load_font()
-    for letter in "K I N Y":
+    for letter in "R A K U N ;)":
         draw_to_screen(letter_dict[letter])
     tools.clear()
     tools.att()
@@ -303,7 +303,7 @@ while(Sair == False):
         time.sleep(1)
     print(f'{C}[{Y}*{C}]Meu Pix: {CY}0018f93e-23c2-4c25-b8e5-c29809786d94{CO}')
     print(f'{C}[{Y}*{C}]Patrocinadores: {CY}Josuke(Douglas){CO}, {CY}Margarina{CO}, {CY}ᬊ𝜣͢𝑭𝑵 𝐌𝐀𝐑𝐓𝐈𝐍𝐒 ↯ 𝐀𝐍𝐓 𝐏𝐀𝐈𝐍↯{CO} e {CY}N 3 X 0{CO}')
-    print(f'[{C}{R}+{C}] Se vierem no meu PV perguntar quando as consultas vão voltar, vou dar block ou ignorar.')
+    print(f'[{C}{R}+{C}] Se as consultas caírem por um tempo não encha o saco pois as vezes será feito a manutenção.')
     print()
     print(f'{C}[{Y}IMPORTANTE!{C}]Leiam as Notas ao vivo.')
     print(f"{C}[{Y}Data de retorno das consultas por número{C}]: {C}[{G}13/05/2021{C}] {C}{Y}MOTIVO: ESTÁVAMOS PLANEJANDO RETORNAR COM A CONSULTA DE NÚMERO NO DIA 05/05, MAS TIVEMOS PROBLEMAS COM NOSSO PATROCINADOR{C}")
@@ -313,7 +313,7 @@ while(Sair == False):
     
     {C}{G}[1]{C} BUSCADOR DE CEP 
     {C}{G}[2]{C} GEO LOCALIZADOR DE IP 
-    {C}{G}[3]{C} KINY-SITE-INFOGA
+    {C}{G}[3]{C} RAKUN-SITE-INFOGA
     
     {C}{G}[4]{C} CONSULTA DE CNPJ 
     {C}{G}[5]{C} CONSULTA BANCARIA 
