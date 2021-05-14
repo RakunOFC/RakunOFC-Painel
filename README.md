@@ -55,7 +55,7 @@
 【✔】pkg install python -y
 【✔】pkg install python2 -y
 【✔】pkg install python3 -y
-【✔】git clone https://github.com/Kiny-Kiny/Kiny-Painel
+【✔】git clone https://github.com/RakunOFC/RakunOFC-Painel
 【✔】cd Kiny-Painel
 【✔】python3 main.py
 ```
@@ -63,7 +63,7 @@
 ## LOGIN
 ```
 【🔐】USERNAME: (Qualquer coisa)
-【🔐】PASSWORD: VirtualInsanity
+【🔐】PASSWORD: @RakunOFC
 ```
 
 # CHANGELOG
