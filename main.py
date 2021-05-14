@@ -45,7 +45,7 @@ except:
 	os.system('pip3 install requests phonenumbers urllib3 colorama bs4 html5lib argparse pytube pyfiglet')
 	restart()
 
-result = pyfiglet.figlet_format("Kiny", font = "cosmic"  )
+result = pyfiglet.figlet_format("Rakun", font = "cosmic"  )
 
 def draw_to_screen(content):
     clear_console = 'clear' if os.name == 'posix' else 'CLS'
@@ -294,7 +294,7 @@ while(Sair == False):
     time.sleep(2)
     tools.clear()
     time.sleep(2)
-    print(f"{C}[{G}Dev's{C}] Coded By: {CY} KINY {CO} and {CY} YATO {CO} in 07/02/2021")
+    print(f"{C}[{G}Dev's{C}] Coded By: {CY} RAKUN {CO} and {CY} YATO {CO} in 13/05/2021")
     print()
     print(f'{C}{G}{result}{C}')    
     print(f'{C}[{G}*{C}]'+random.choice(welcome_msg)+' '+str(user)+'!')
