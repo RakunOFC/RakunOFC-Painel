@@ -56,7 +56,7 @@
 【✔】pkg install python2 -y
 【✔】pkg install python3 -y
 【✔】git clone https://github.com/RakunOFC/RakunOFC-Painel
-【✔】cd Kiny-Painel
+【✔】cd RakunOFC-Painel
 【✔】python3 main.py
 ```
 
