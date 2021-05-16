@@ -276,7 +276,7 @@ Sair = False
 while(Sair == False):
 
     letter_dict = load_font()
-    for letter in "R A K U N ;)":
+    for letter in "R A K U N":
         draw_to_screen(letter_dict[letter])
     tools.clear()
     tools.att()
